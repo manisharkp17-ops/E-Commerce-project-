@@ -101,7 +101,7 @@ In the upcoming weeks, the project will include:
 
 This project is submitted for academic purposes only.
 
-#WEEK 2
+# WEEK 2
 # README
 
 ## Project Title
